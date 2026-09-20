@@ -1,0 +1,8 @@
+Dataset,Rows
+Patients,500
+Medications,1177
+Diagnoses,904
+Treatment Plans,500
+Lab Results,42060
+Pain Crises,2839
+ML Model Rows,10000
